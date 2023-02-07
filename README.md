@@ -52,7 +52,7 @@ Mobile:
 
 ## Author
 
-- Website - [Adarsh Gupta] https://adarsh78.github.io/Product_Card/
-- Frontend Mentor - [@adarsh78] https://www.frontendmentor.io/profile/adarsh78
+- Website - https://adarsh78.github.io/Product_Card/
+- Frontend Mentor - https://www.frontendmentor.io/profile/adarsh78
 
 
