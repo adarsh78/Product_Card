@@ -50,14 +50,9 @@ Mobile:
 - CSS Grid
 - Mobile-first workflow
 
-
-### What I learned
-
-
-
 ## Author
 
-- Website - [Adarsh Gupta]https://adarsh78.github.io/Product_Card/
-- Frontend Mentor - [@adarsh78]https://www.frontendmentor.io/profile/adarsh78
+- Website - [Adarsh Gupta] https://adarsh78.github.io/Product_Card/
+- Frontend Mentor - [@adarsh78] https://www.frontendmentor.io/profile/adarsh78
 
 
