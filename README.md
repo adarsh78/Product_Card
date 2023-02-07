@@ -33,7 +33,7 @@ Desktop:
 
 Mobile:
 
-"C:\Users\Adarsh k\OneDrive\Pictures\Screenshots\Screenshots\FM_1_Desktop.png"
+![FM_1_Mobile](https://user-images.githubusercontent.com/64201509/217255608-e0e29d6c-1a76-4fb6-aae4-dea8dec0617d.png)
 
 ### Links
 
