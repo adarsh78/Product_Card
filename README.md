@@ -29,7 +29,7 @@ Users should be able to:
 
 Desktop: 
 
-"C:\Users\Adarsh k\OneDrive\Pictures\Screenshots\Screenshots\FM_1_Desktop.png"
+![FM_1_Desktop](https://user-images.githubusercontent.com/64201509/217255408-e5b3ad2d-be23-49f4-9288-5b34e396242c.png)
 
 Mobile:
 
