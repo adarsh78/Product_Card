@@ -126,12 +126,12 @@ footer a{
     padding: 2rem;
   }
   
-.price{
-  margin: 0.9rem;
-}
+  .price{
+  margin: 0.7rem;
+  }
 
-#old-price{
-  margin-left: -7.5rem;
-  font-size: 0.8rem;
-}
+  #old-price{
+    margin-right: -1.3rem
+  }
+
 }
