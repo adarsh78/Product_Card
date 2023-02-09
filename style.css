@@ -62,7 +62,7 @@ h1{
   margin: 0.5rem 0 1rem 0;
 }
 
-#new-price{
+.new-price{
   font-size: 2.2rem;
   color: hsl(158, 36%, 37%);
   font-weight: bold;
@@ -70,7 +70,7 @@ h1{
   margin-left: -5.3rem;
 }
 
-#old-price{
+.old-price{
   font-size: 0.9rem;
   margin: 0.5rem 0 0 -9rem;
   color: hsl(228, 12%, 48%);
@@ -130,7 +130,7 @@ footer a{
   margin: 0.7rem;
   }
 
-  #old-price{
+  .old-price{
     margin-right: -1.3rem
   }
 
