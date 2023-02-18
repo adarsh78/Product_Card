@@ -50,5 +50,6 @@ Mobile:
 
 - Website - https://adarsh78.github.io/Product_Card/
 - Frontend Mentor - https://www.frontendmentor.io/profile/adarsh78
+- Twitter - [@adarsh_kgupta](https://twitter.com/adarsh_kgupta)
 
 
